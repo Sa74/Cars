@@ -3,9 +3,10 @@ Simple iOS application for Cab booking service with Map and Table interface.
 
 # Screenshot
 
-<img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/1.png" width="75">
-
-![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/1.png | width = 100) ![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/2.png) ![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/3.png) ![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/4.png)
+<img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/1.png" width="150">
+<img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/2.png" width="150">
+<img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/3.png" width="150">
+<img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/4.png" width="150">
 
 ![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo1.gif) ![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo2.gif) ![Cars](https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo3.gif)
 
