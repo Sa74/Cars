@@ -1,0 +1,274 @@
+{
+  "carsList": [
+    {
+      "id": 534346,
+      "coordinate": {
+        "latitude": 13.09433011299705,
+        "longitude": 80.20561609877902
+      },
+      "carType": "POOLING",
+      "movingTowards": 300.3364802131481
+    },
+    {
+      "id": 382276,
+      "coordinate": {
+        "latitude": 13.067873681082144,
+        "longitude": 80.2288274009554
+      },
+      "carType": "TAXI",
+      "movingTowards": 277.53222377459326
+    },
+    {
+      "id": 653857,
+      "coordinate": {
+        "latitude": 13.115959248089725,
+        "longitude": 80.23842541304627
+      },
+      "carType": "TAXI",
+      "movingTowards": 89.68658501929592
+    },
+    {
+      "id": 758242,
+      "coordinate": {
+        "latitude": 13.048326353805882,
+        "longitude": 80.23261529296603
+      },
+      "carType": "POOLING",
+      "movingTowards": 298.75102639459544
+    },
+    {
+      "id": 515253,
+      "coordinate": {
+        "latitude": 12.858841398457647,
+        "longitude": 80.13224403889907
+      },
+      "carType": "TAXI",
+      "movingTowards": 24.46259311980666
+    },
+    {
+      "id": 563607,
+      "coordinate": {
+        "latitude": 13.025022116362196,
+        "longitude": 80.1412420957448
+      },
+      "carType": "POOLING",
+      "movingTowards": 306.6771216764795
+    },
+    {
+      "id": 765591,
+      "coordinate": {
+        "latitude": 12.990087850389944,
+        "longitude": 80.09448327311779
+      },
+      "carType": "TAXI",
+      "movingTowards": 249.52598711575132
+    },
+    {
+      "id": 123194,
+      "coordinate": {
+        "latitude": 13.163707317460082,
+        "longitude": 80.23855747880914
+      },
+      "carType": "TAXI",
+      "movingTowards": 340.01886943100453
+    },
+    {
+      "id": 609588,
+      "coordinate": {
+        "latitude": 13.069098348657183,
+        "longitude": 80.20493963493307
+      },
+      "carType": "POOLING",
+      "movingTowards": 130.1341910013967
+    },
+    {
+      "id": 949559,
+      "coordinate": {
+        "latitude": 13.087710677552282,
+        "longitude": 80.17699140821672
+      },
+      "carType": "TAXI",
+      "movingTowards": 350.767758488744
+    },
+    {
+      "id": 590356,
+      "coordinate": {
+        "latitude": 12.853429828573422,
+        "longitude": 80.24585597713865
+      },
+      "carType": "TAXI",
+      "movingTowards": 82.19112112921191
+    },
+    {
+      "id": 612399,
+      "coordinate": {
+        "latitude": 13.129768613044222,
+        "longitude": 80.23666868004763
+      },
+      "carType": "TAXI",
+      "movingTowards": 252.47027417219792
+    },
+    {
+      "id": 778602,
+      "coordinate": {
+        "latitude": 12.976919196025028,
+        "longitude": 80.22908876738781
+      },
+      "carType": "TAXI",
+      "movingTowards": 31.401028945337806
+    },
+    {
+      "id": 603703,
+      "coordinate": {
+        "latitude": 13.124085425574265,
+        "longitude": 80.22004649624184
+      },
+      "carType": "TAXI",
+      "movingTowards": 351.35657514178007
+    },
+    {
+      "id": 247380,
+      "coordinate": {
+        "latitude": 13.1847678908391,
+        "longitude": 80.210714167632
+      },
+      "carType": "TAXI",
+      "movingTowards": 26.737797752086085
+    },
+    {
+      "id": 178293,
+      "coordinate": {
+        "latitude": 13.061951043564372,
+        "longitude": 80.18854732123624
+      },
+      "carType": "TAXI",
+      "movingTowards": 153.26975204115521
+    },
+    {
+      "id": 318172,
+      "coordinate": {
+        "latitude": 13.057115622200822,
+        "longitude": 80.11186715881274
+      },
+      "carType": "TAXI",
+      "movingTowards": 20.432291009164214
+    },
+    {
+      "id": 990079,
+      "coordinate": {
+        "latitude": 12.930259769276061,
+        "longitude": 80.14505553239745
+      },
+      "carType": "POOLING",
+      "movingTowards": 293.4679890361054
+    },
+    {
+      "id": 413606,
+      "coordinate": {
+        "latitude": 13.129772259484264,
+        "longitude": 80.20259971763659
+      },
+      "carType": "TAXI",
+      "movingTowards": 203.78899792294217
+    },
+    {
+      "id": 178900,
+      "coordinate": {
+        "latitude": 12.942535666666338,
+        "longitude": 80.18088021946268
+      },
+      "carType": "TAXI",
+      "movingTowards": 118.53458133589078
+    },
+    {
+      "id": 932225,
+      "coordinate": {
+        "latitude": 12.908811830597337,
+        "longitude": 80.10306337565844
+      },
+      "carType": "TAXI",
+      "movingTowards": 142.3242342427487
+    },
+    {
+      "id": 107374,
+      "coordinate": {
+        "latitude": 12.962028369126099,
+        "longitude": 80.16623289374719
+      },
+      "carType": "POOLING",
+      "movingTowards": 169.29664853363917
+    },
+    {
+      "id": 885754,
+      "coordinate": {
+        "latitude": 12.882097169484567,
+        "longitude": 80.22611597467954
+      },
+      "carType": "POOLING",
+      "movingTowards": 347.21051037436143
+    },
+    {
+      "id": 529249,
+      "coordinate": {
+        "latitude": 12.955129852485681,
+        "longitude": 80.20461945642967
+      },
+      "carType": "TAXI",
+      "movingTowards": 344.42521167762783
+    },
+    {
+      "id": 246281,
+      "coordinate": {
+        "latitude": 12.949271065339156,
+        "longitude": 80.21653090951203
+      },
+      "carType": "TAXI",
+      "movingTowards": 217.90600573892294
+    },
+    {
+      "id": 147612,
+      "coordinate": {
+        "latitude": 12.905646703987866,
+        "longitude": 80.13279897215499
+      },
+      "carType": "POOLING",
+      "movingTowards": 332.737287491522
+    },
+    {
+      "id": 583505,
+      "coordinate": {
+        "latitude": 13.177811061714763,
+        "longitude": 80.0863006109839
+      },
+      "carType": "TAXI",
+      "movingTowards": 216.04937663616505
+    },
+    {
+      "id": 922320,
+      "coordinate": {
+        "latitude": 13.028064003031126,
+        "longitude": 80.23399146401127
+      },
+      "carType": "POOLING",
+      "movingTowards": 220.1096229908126
+    },
+    {
+      "id": 846343,
+      "coordinate": {
+        "latitude": 12.9826006569572,
+        "longitude": 80.17772826809586
+      },
+      "carType": "POOLING",
+      "movingTowards": 291.353976424197
+    },
+    {
+      "id": 701206,
+      "coordinate": {
+        "latitude": 12.984388490956782,
+        "longitude": 80.19552906318417
+      },
+      "carType": "TAXI",
+      "movingTowards": 101.63168389554083
+    }
+  ]
+}

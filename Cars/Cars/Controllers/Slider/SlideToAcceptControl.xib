@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SlideToAcceptControl" customModule="MyTaxi" customModuleProvider="target">
+            <connections>
+                <outlet property="cancelButton" destination="U9b-GJ-bMk" id="gYD-KB-izw"/>
+                <outlet property="sliderArrowLabel" destination="sus-FE-ggP" id="AUg-zT-8ky"/>
+                <outlet property="sliderIcon" destination="YX8-YC-gD7" id="6sn-Di-0Fs"/>
+                <outlet property="sliderLabel" destination="yTd-w6-1Cd" id="eRm-8B-182"/>
+                <outlet property="sliderView" destination="wWy-cn-NiN" id="enP-kN-alW"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="276" height="45"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wWy-cn-NiN">
+                    <rect key="frame" x="0.0" y="0.0" width="180" height="45"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Slide To Book" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yTd-w6-1Cd">
+                            <rect key="frame" x="53" y="0.0" width="125" height="45"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YX8-YC-gD7">
+                            <rect key="frame" x="5" y="5" width="35" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="→" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sus-FE-ggP">
+                                    <rect key="frame" x="0.0" y="0.0" width="35" height="35"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="tintColor" red="0.45098039220000002" green="0.74509803919999995" blue="0.49019607840000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="34"/>
+                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90784937139999999" green="0.10187315199999999" blue="0.53364986179999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="180" id="MLq-9g-O9c"/>
+                        <constraint firstAttribute="height" constant="45" id="PCY-ze-SnJ"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U9b-GJ-bMk">
+                    <rect key="frame" x="210" y="2" width="66" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="aie-6W-fJI"/>
+                    </constraints>
+                    <state key="normal" title="Cancel"/>
+                    <connections>
+                        <action selector="cancelButtonTapped:" destination="-1" eventType="touchUpInside" id="BTB-44-zBe"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="wWy-cn-NiN" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Rku-pa-ROE"/>
+                <constraint firstItem="U9b-GJ-bMk" firstAttribute="centerY" secondItem="wWy-cn-NiN" secondAttribute="centerY" id="U3W-5h-H6F"/>
+                <constraint firstItem="wWy-cn-NiN" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Veg-8w-dKM"/>
+                <constraint firstItem="U9b-GJ-bMk" firstAttribute="leading" secondItem="wWy-cn-NiN" secondAttribute="trailing" constant="30" id="c1r-uI-gAy"/>
+                <constraint firstAttribute="trailing" secondItem="U9b-GJ-bMk" secondAttribute="trailing" id="n5b-BF-omh"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="185" y="-174.5"/>
+        </view>
+    </objects>
+</document>
