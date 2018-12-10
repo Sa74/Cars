@@ -9,6 +9,10 @@ Simple iOS application for Cab booking service with Map and Table interface.
 
 <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo1.gif" width="175">      <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo2.gif" width="175">        <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo3.gif" width="175">
 
+#### Contributing
+
+I :heart: pull requests. If you'd like to see new features, fix bugs, or lodge
+issues then please do so via Github.
 
 ## Author
 
