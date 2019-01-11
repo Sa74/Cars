@@ -7,14 +7,20 @@ Simple iOS application for Cab booking service with Map and Table interface.
 
 # Demo
 
-Launch and Locating Cars in Map
+#### Launch and Locating Cars in Map
+
 <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo1.gif" width="175">      
 
-Selecting Car and Booking from Map
+
+#### Selecting Car and Booking from Map
+
 <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo2.gif" width="175">        
 
-Car list display and selection
+
+#### Car list display and selection
+
 <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo3.gif" width="175">
+
 
 #### Contributing
 
