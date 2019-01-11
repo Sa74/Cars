@@ -22,11 +22,6 @@ Simple iOS application for Cab booking service with Map and Table interface.
 <img src="https://github.com/Sa74/Cars/blob/master/Cars/Cars/Screens/demo3.gif" width="175">
 
 
-#### Contributing
-
-I :heart: pull requests. If you'd like to see new features, fix bugs, or lodge
-issues then please do so via Github.
-
 ## Author
 
 [Sasi Moorthy](https://twitter.com/Sasi3726), 📧 msasi7274@gmail.com. Looking out for freelance work, if interested feel free to contact me.
